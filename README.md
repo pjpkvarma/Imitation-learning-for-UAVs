@@ -1,6 +1,5 @@
 <h1 align="center">Imitation Learning for UAVs</h1>
 <h3 align="center">Learning Policies for Last-Mile Deliveries and Urban Air Mobility</h3>
----
 
 ### 🚀 Project Overview
 This project introduces an innovative framework leveraging imitation learning to develop UAVs capable of autonomously navigating complex urban environments. By mimicking expert demonstrations, UAVs can efficiently learn policies for last-mile delivery, urban air mobility, and emergency scenarios. The framework focuses on three core objectives:
@@ -38,18 +37,4 @@ This framework is versatile and can be applied to:
 ### ⚠️ Project Status
 This project is currently ongoing, and the code will be made public once the associated research paper has been published.
 
----
 
-### 👨‍💻 Contributors
-- **[Your Name]**: Framework design, policy learning, and testing.
-- **[Collaborator's Name]**: Simulation environment development and real-world validation.
-
----
-
-### 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-### 🌐 Project Webpage
-For detailed documentation, visit the [project webpage](https://your-project-webpage.com).
